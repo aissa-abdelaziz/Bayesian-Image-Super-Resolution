@@ -1,7 +1,7 @@
 # Bayesian-Image-Super-Resolution
 
 ## Overview
-Bayesian super-resolution is a technique used to enhance the resolution of images by incorporating Bayesian inference principles. This repository contains the implementation of a Bayesian super-resolution algorithm using PyTorch propsoed by Tipping et al in  [this paper]([link_to_paper](https://proceedings.neurips.cc/paper_files/paper/2002/file/88bfcf02e7f554f9e9ea350b699bc6a7-Paper.pdf) .
+Bayesian super-resolution is a technique used to enhance the resolution of images by incorporating Bayesian inference principles. This repository contains the implementation of a Bayesian super-resolution algorithm using PyTorch propsoed by Tipping et al ([link_to_paper] (https://proceedings.neurips.cc/paper_files/paper/2002/file/88bfcf02e7f554f9e9ea350b699bc6a7-Paper.pdf)).
 
 ## Features
 - Generates high-resolution (HR) images from low-resolution (LR) inputs.
