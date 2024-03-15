@@ -18,11 +18,11 @@ This repository contains the implementation of a Bayesian super-resolution algor
 4. Run the notebook.
 
 ## Example
-Here is an example of input image, scribbles image, and the obtained result:
+Here is an example  :
 
 | High Resolution Image | Low Resolution Image | Patch | Bilinear Interpolation | Reconstructed High Resolution |
 |-----------------------|----------------------|-------|-------------------------|-------------------------------|
-| ![High Resolution Image](Results\monaliza.png) | ![Low Resolution Image](Results\LR_monaliza.png) | ![Patch](Results\Patch_LR.png) | ![Bilinear Interpolation](Results\monamliza_binr.png) | ![Reconstructed High Resolution](Results\monaliza_GP.png) |
+| ![High Resolution Image](\Results\monaliza.png) | ![Low Resolution Image](\Results\LR_monaliza.png) | ![Patch](\Results\Patch_LR.png) | ![Bilinear Interpolation](\Results\monamliza_binr.png) | ![Reconstructed High Resolution](\Results\monaliza_GP.png) |
 
 ## Reference
 - Michael Tipping and Christopher Bishop. Bayesian image super-resolution. Advances in neural information processing systems, 15, 2002. [Link to Paper](https://proceedings.neurips.cc/paper_files/paper/2002/file/88bfcf02e7f554f9e9ea350b699bc6a7-Paper.pdf).
